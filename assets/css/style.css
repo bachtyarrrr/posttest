@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn-secondary {
+    background-color: #0951BD;
+    border-color: #0951BD;
+}
+
+.btn-secondary:hover{
+    background-color: #007FCC;
+    border-color: #007FCC;
+}
+
+.btn-success {
+background-color: #06367D;
+border-color: #06367D;
+}
+
+.btn-success:hover {
+    background-color: #0A57C9;
+    border-color: #0A57C9;
+}
+
+.btn-danger {
+    background-color: #031A3D;
+    border-color: #031A3D;
+}
+
+.btn-danger:hover{
+    background-color: #06367D;
+    border-color: #06367D;
+}
+
+.btn-warning {
+    background-color: #052B63;
+    border-color: #052B63;
+    color: white;
+}
+
+.btn-warning:hover{
+    background-color: #0846A3;
+    border-color: #0846A3;
+    color: white;
+}
+
+.btn-info {
+    background-color: #0A57C9;
+    border-color: #0A57C9;
+    color: white;
+}
+
+.btn-info:hover{
+    background-color: #0C67F0;
+    border-color: #0A57C9;
+    color: white;
+}
+
+.btn-light {
+    background-color: #0B5CD6;
+    color: white;
+}
+
+.btn-light:hover{
+    background-color: #0846A3;
+    color: white;
+}
+
+.btn-outline-success{
+    border-color: #0d6efd;
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+.btn-outline-success:hover{
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.h2 {
+    font-family: century gothic;
+}
+
+.table {
+    font-weight: bold;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.table thead tr {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.table thead tr:last-of-type {
+    border-bottom: 2px solid #0d6efd;
+}
+
+.table tbody tr:last-of-type {
+    border-bottom: 2px solid #0d6efd;
+}
+
+.hover {
+    color: #0951BD;
+}
+
+hr {
+    color: white;
+}
+
+.card {
+    border-bottom: 2px solid #0d6efd;
+}
+
+.ttl {
+    color: #007FCC;
+    font-size: 18px;
+}
+
+.ttk {
+    font-size: 15px;
+}
+
+.uk {
+    width: 50%;
+}
